@@ -1,7 +1,5 @@
 # Hi there, I'm Deepak 👋
 
-![Banner or Profile Visitor Count](https://visitcount.itsvg.in/api?id=DeepakK-sec&icon=5&color=6)  
-*(optional: replace the above line with your own banner image or remove it)*
 
 Cybersecurity enthusiast | Ethical Hacker | Penetration Tester | CTF Player
 
